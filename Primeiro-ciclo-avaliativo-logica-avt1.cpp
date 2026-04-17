@@ -1,17 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*
-*========================================================================
-*Aluna: Gabrielly Ariely Nascimento Barros
-*Disciplina: LÛgica Matem·tica e Algoritmo
-*PerÌodo: 1∞
-*========================================================================
-*/
-
 void Questao01()
 {
-  //declacaÁ„o de vari·veis do tipo inteiro	
+  //declaca√ß√£o de vari√°veis do tipo inteiro	
   int a, b, resultado_da_multiplicacao;
   
   printf("Questao 1: Faca um algoritmo que recebe dois valores inteiros e mostre o resultado da multiplicacao.\n");
@@ -29,7 +21,7 @@ void Questao01()
 
 void Questao02()
 {
-	//declaracao da vari·vel tipo inteiro
+	//declaracao da vari√°vel tipo inteiro
 	int numero;
 
 	printf("\nQuestao 2:Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor\n");	
@@ -42,7 +34,7 @@ void Questao02()
 
 void Questao03()
 {
-   //declacaÁ„o de vari·veis do tipo inteiro	
+   //declaca√ß√£o de vari√°veis do tipo inteiro	
   int x, y,quociente, resto;
   
   
@@ -70,7 +62,7 @@ void Questao03()
 
 void Questao04()
 {
-	//Declaracao de vari·veis 
+	//Declaracao de vari√°veis 
 	float a, b, soma, produto, quociente;
 	
 	printf("\nQuestao 4 : Fazer um algoritmo que calcule e mostre:");
@@ -84,7 +76,7 @@ void Questao04()
 	printf("\nDigite o segundo valor: ");
 	scanf("%f", &b);	
 	
-	//C·lculos
+	//C√°lculos
 	soma = a + b;
 	produto = a * b;
 	
