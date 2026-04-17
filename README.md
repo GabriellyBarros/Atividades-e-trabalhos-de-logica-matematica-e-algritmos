@@ -1,1 +1,1 @@
-# Atividades-e-trabalhos-de-l-gica-matem-tica-e-algritmos
+# Atividades-e-trabalhos-de-logica-matematica-e-algritmos
